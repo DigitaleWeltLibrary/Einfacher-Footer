@@ -8,13 +8,14 @@ main {
     text-align: center;
   }
 }
-$blau: blue;
-$leichtblau: lightblue;
-$weis: #fff;
+
+// Farben wurden angepasst
+$braun: #a52a2a;
+$leichtbraun: #fde1b0;
 
 footer {
-  border-top: 3px solid $blau;
-  background-color: $leichtblau;
+  border-top: 3px solid $braun;
+  background-color: $leichtbraun;
   padding: 5px 0 10px 0;
   .footer {
     ul {
@@ -26,9 +27,9 @@ footer {
         a {
           text-decoration: none;
           font-size: 1.25rem;
-          color: $blau;
+          color: $braun;
           &:hover {
-            text-decoration: underline $weis 1.5px;
+            text-decoration: underline $braun 1.5px;
           }
         }
       }
@@ -38,7 +39,7 @@ footer {
     display: flex;
     justify-content: center;
     margin: 10px 0 0 0;
-    color: $blau;
+    color: $braun;
     font-weight: 900;
   }
 }
