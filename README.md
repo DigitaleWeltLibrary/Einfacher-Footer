@@ -1,14 +1,17 @@
-# Einfacher Footer
+# footer template
 
-[![Einfacher Footer](https://www.digitaleweltlibrary.at/assets/img/video_img/temp_footer1.jpg)](https://www.youtube.com/watch?v=ibAX4Cvi9N0&list=PLE9A1pocJuAMbM2xuYl_eWSB5vSvtOK36)
+#### [Video in German how I create the footer](https://www.youtube.com/watch?v=ibAX4Cvi9N0)
 
+## footer
 
-## Was erwartet dich?
+I created a simple footer for the website using HTML and SCSS.
 
+## images
 
-In in diesem [Video](https://www.youtube.com/watch?v=ibAX4Cvi9N0&list=PLE9A1pocJuAMbM2xuYl_eWSB5vSvtOK36) habe ich erklärt, wie man einen Footer für eine Website erstellt und stylt.
+### desktop view
 
+![desktop view](assets/image.png)
 
+### mobile view
 
-
-[Meine Website](https://www.digitaleweltlibrary.at/) & [mein YT-Kanal](https://www.youtube.com/@DigitaleWeltLibrary)
+![mobile view](assets/image-1.png)
